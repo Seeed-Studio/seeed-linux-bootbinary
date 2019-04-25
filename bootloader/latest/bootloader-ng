@@ -1,0 +1,15 @@
+#Version Info:
+VERSION:1
+
+#I: stable
+#X: testing
+
+#switched to u-boot target names on 7/31/2013...
+
+#STM32MP1
+ABI2:stm32mp1:SPL https://turmary.gitee.io/repos/bootloader/stm32mp1/u-boot-spl.stm32-stm32mp157c-dk2-basic
+ABI2:stm32mp1:BOOT https://turmary.gitee.io/repos/bootloader/stm32mp1/u-boot-stm32mp157c-dk2-basic.img
+
+ABX2:stm32mp1:SPL https://turmary.gitee.io/repos/bootloader/stm32mp1/u-boot-spl.stm32-stm32mp157c-dk2-basic
+ABX2:stm32mp1:BOOT https://turmary.gitee.io/repos/bootloader/stm32mp1/u-boot-stm32mp157c-dk2-basic.img
+
