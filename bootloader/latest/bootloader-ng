@@ -13,3 +13,6 @@ ABI2:stm32mp1:BOOT https://turmary.gitee.io/repos/bootloader/stm32mp1/u-boot-stm
 ABX2:stm32mp1:SPL https://turmary.gitee.io/repos/bootloader/stm32mp1/u-boot-spl.stm32-stm32mp157c-dk2-basic
 ABX2:stm32mp1:BOOT https://turmary.gitee.io/repos/bootloader/stm32mp1/u-boot-stm32mp157c-dk2-basic.img
 
+#i.MX6ULL
+ABI2:imx6ull-npi:BOOT https://turmary.gitee.io/repos/bootloader/imx6ull-npi/u-boot-dtb.imx
+
