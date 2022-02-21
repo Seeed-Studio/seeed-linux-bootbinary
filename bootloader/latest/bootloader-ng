@@ -14,11 +14,11 @@ ABX2:stm32mp1:SPL  https://seeed-studio.github.io/seeed-linux-bootbinary/bootloa
 ABX2:stm32mp1:BOOT https://seeed-studio.github.io/seeed-linux-bootbinary/bootloader/stm32mp1/u-boot-stm32mp157c-dk2-basic.img
 
 
-ABI2:stm32mp135:SPL  https://github.com/Seeed-Studio/seeed-linux-bootbinary/bootloader/stm32mp135/tf-a-stm32mp135f-dk-sdcard.stm32
-ABI2:stm32mp135:BOOT https://github.com/Seeed-Studio/seeed-linux-bootbinary/bootloader/stm32mp135/fip-stm32mp135f-dk-optee.bin
+ABI2:stm32mp135:SPL  https://github.com/Seeed-Studio/seeed-linux-bootbinary/tree/master/bootloader/stm32mp135/tf-a-stm32mp135f-dk-sdcard.stm32
+ABI2:stm32mp135:BOOT https://github.com/Seeed-Studio/seeed-linux-bootbinary/tree/master/bootloader/stm32mp135/fip-stm32mp135f-dk-optee.bin
 
-ABX2:stm32mp135:SPL  https://github.com/Seeed-Studio/seeed-linux-bootbinary/bootloader/stm32mp135/tf-a-stm32mp135f-dk-sdcard.stm32
-ABX2:stm32mp135:BOOT https://github.com/Seeed-Studio/seeed-linux-bootbinary/bootloader/stm32mp135/fip-stm32mp135f-dk-optee.bin
+ABX2:stm32mp135:SPL  https://github.com/Seeed-Studio/seeed-linux-bootbinary/tree/master/bootloader/stm32mp135/tf-a-stm32mp135f-dk-sdcard.stm32
+ABX2:stm32mp135:BOOT https://github.com/Seeed-Studio/seeed-linux-bootbinary/tree/master/bootloader/stm32mp135/fip-stm32mp135f-dk-optee.bin
 
 #i.MX6ULL
 ABI2:imx6ull-npi:BOOT  https://seeed-studio.github.io/seeed-linux-bootbinary/bootloader/imx6ull-npi/u-boot-dtb.imx
